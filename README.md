@@ -1,0 +1,1 @@
+This is my code for the Innomatics Data Science Internship hackathon i'have used jupyterlite for the mcq questions.Since i was not able to import requests library for webscrapping i used colab for webscrapping task.
